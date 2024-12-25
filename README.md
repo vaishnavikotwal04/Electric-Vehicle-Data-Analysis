@@ -44,7 +44,9 @@ Tableau is an excellent tool for visualizing and analyzing electric vehicle data
 ### 1. Total Vehicles by Model Year (From 2010 Onwards)
 
 Visualization: Line/Area Chart
+
 Purpose: Illustrate the growth trend of EVs (BEVs and PHEVs) over time.
+
 Implementation in Tableau:
 Import the dataset into Tableau.
 Use the Model Year as the x-axis and Total Vehicles as the y-axis.
