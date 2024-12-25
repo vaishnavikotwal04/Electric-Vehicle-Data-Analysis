@@ -47,7 +47,7 @@ Visualization: Line/Area Chart
 
 Purpose: Illustrate the growth trend of EVs (BEVs and PHEVs) over time.
 
-Implementation in Tableau:
+Implementation in Tableau: 
 Import the dataset into Tableau.
 Use the Model Year as the x-axis and Total Vehicles as the y-axis.
 Apply filters to include only data from 2010 onwards.
@@ -56,7 +56,9 @@ Customize the chart with color coding for BEVs and PHEVs to differentiate trends
 ### 2. Total Vehicles by State
 
 Visualization: Map Chart
+
 Purpose: Display the geographical distribution of EVs across states.
+
 Implementation in Tableau:
 Drag the State dimension to the Map view.
 Use the Total Vehicles measure to determine the size or intensity of markers on the map.
@@ -66,7 +68,9 @@ Include tooltips to show state-wise breakdown of BEVs and PHEVs.
 ### 3. Top 10 Total Vehicles by Make
 
 Visualization: Bar Chart
+
 Purpose: Highlight the most popular EV manufacturers based on the number of vehicles.
+
 Implementation in Tableau:
 Drag the Make field to the x-axis and Total Vehicles to the y-axis.
 Sort the data in descending order and limit it to the top 10 manufacturers.
@@ -75,7 +79,9 @@ Use color differentiation for BEVs and PHEVs or other vehicle categories.
 ### 4. Total Vehicles by CAFV Eligibility
 
 Visualization: Pie Chart or Donut Chart
+
 Purpose: Understand the impact of CAFV incentives on vehicle adoption.
+
 Implementation in Tableau:
 Use the CAFV Eligibility dimension (Eligible/Not Eligible) as the category.
 Use Total Vehicles as the measure to create a proportional chart.
@@ -84,7 +90,9 @@ Include percentage labels for a clearer representation of data.
 ### 5. Top 10 Total Vehicles by Model
 
 Visualization: Tree Map
+
 Purpose: Showcase consumer preferences and popular EV models.
+
 Implementation in Tableau:
 Drag the Model field to the Tree Map visualization.
 Use Total Vehicles to determine the size of each block.
