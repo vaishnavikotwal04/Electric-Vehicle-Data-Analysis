@@ -1,4 +1,5 @@
-# Electric-Vehicle-Data-Analysis(https://public.tableau.com/app/profile/vaishnavi.kotwal/viz/ElectricVehiclesEVDataAnalysis/Dashboard1)
+# Electric-Vehicle-Data-Analysis
+(https://public.tableau.com/app/profile/vaishnavi.kotwal/viz/ElectricVehiclesEVDataAnalysis/Dashboard1)
 
 ## Problem Statement
 The objective is to analyze the adoption and growth of electric vehicles (EVs) by assessing key metrics, trends, and market patterns. This analysis will focus on Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), enabling stakeholders to make data-driven decisions regarding technology advancements, policy-making, and market strategies.
